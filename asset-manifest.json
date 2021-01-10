@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/static/js/main.26a8e8df.chunk.js",
+    "main.js.map": "/static/js/main.26a8e8df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0197b26b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0197b26b.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0f0568f6.chunk.js": "/static/js/2.0f0568f6.chunk.js",
+    "static/js/2.0f0568f6.chunk.js.map": "/static/js/2.0f0568f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.0f0568f6.chunk.js.LICENSE.txt": "/static/js/2.0f0568f6.chunk.js.LICENSE.txt",
+    "static/media/Burger.76bce433.png": "/static/media/Burger.76bce433.png",
+    "static/media/Getogether.74183641.png": "/static/media/Getogether.74183641.png",
+    "static/media/NoteTaker.cb2eb4ea.png": "/static/media/NoteTaker.cb2eb4ea.png",
+    "static/media/Shawn_Fok_Resume.2c9e7230.PDF": "/static/media/Shawn_Fok_Resume.2c9e7230.PDF",
+    "static/media/eatwhere.28cbb23e.png": "/static/media/eatwhere.28cbb23e.png",
+    "static/media/scheduler2.9b11bb23.png": "/static/media/scheduler2.9b11bb23.png",
+    "static/media/shawnfok_profilepic.463f6b81.png": "/static/media/shawnfok_profilepic.463f6b81.png",
+    "static/media/weather.399c87b8.png": "/static/media/weather.399c87b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0197b26b.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.0f0568f6.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.26a8e8df.chunk.js"
+  ]
+}
