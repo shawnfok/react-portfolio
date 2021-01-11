@@ -18,7 +18,7 @@ export default class aboutme extends Component {
               src={ProfilePic}
               alt="Generic placeholder"
               fluid
-              thumbnail
+              // thumbnail
             />
             <br />
             <SocialFollow />
